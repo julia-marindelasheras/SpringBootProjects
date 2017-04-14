@@ -1,6 +1,7 @@
-package readinglist;
+package readinglist.repository;
 
 import org.springframework.data.jpa.repository.JpaRepository;
+import readinglist.entity.Book;
 
 import java.util.List;
 
